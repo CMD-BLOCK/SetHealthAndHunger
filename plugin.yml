@@ -1,0 +1,8 @@
+﻿name: setHealthAndHunger
+main: io.github.CMD_BLOCK.setHealthAndHunger.Main
+version: 1.0
+author: CMD_BLOCK
+commands:
+  shah:
+    description: 查看setHealthAndHunger插件帮助
+    usage: /shah
